@@ -1,0 +1,1 @@
+age = int(intput("enter your age: "))
